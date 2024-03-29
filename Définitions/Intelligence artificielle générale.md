@@ -1,0 +1,4 @@
+Une **intelligence artificielle générale** (**IAG**) est une intelligence artificielle capable d'effectuer ou d'apprendre pratiquement n'importe quelle tâche cognitive propre aux humains ou autres animaux.
+
+---
+Source : [Wikipédia. Intelligence artificielle générale](https://fr.wikipedia.org/wiki/Intelligence_artificielle_g%C3%A9n%C3%A9rale#:~:text=Une%20intelligence%20artificielle%20g%C3%A9n%C3%A9rale%20(IAG)%20est%20une%20intelligence%20artificielle%20capable%20d%27effectuer%20ou%20d%27apprendre%20pratiquement%20n%27importe%20quelle%20t%C3%A2che%20cognitive%20propre%20aux%20humains%20ou%20autres%20animaux)
