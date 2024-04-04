@@ -1,6 +1,3 @@
----
-
----
 Le **machine learning** (ML), ou **apprentissage automatique**, est une branche de l'intelligence artificielle et de l'informatique qui utilise des données et algorithmes afin d'imiter la façon dont les humains apprennent et améliorent progressivement leurs performances. 
 
 ## Types de machine learning
