@@ -18,6 +18,6 @@ S'ajoute à cela le concept de **[[deep learning]]**, qui est une catégorie de 
 
 ---
 Sources :
-[IBM. What is machine learning (ML)?](https://www.ibm.com/topics/machine-learning)
 [UC Berkeley. What is machine learning (ML)?](https://ischoolonline.berkeley.edu/blog/what-is-machine-learning/)
 [Nvidia. SuperVize Me: What’s the Difference Between Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning?](https://blogs.nvidia.com/blog/supervised-unsupervised-learning/)
+[IBM. What is machine learning (ML)?](https://www.ibm.com/topics/machine-learning)

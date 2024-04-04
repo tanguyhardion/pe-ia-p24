@@ -1,5 +1,4 @@
 L'**automatisation** est le terme qui décrit les applications technologiques où l'apport humain est minimisé.
-
 ## Types d'automatisation
 
 #### Automatisation basique

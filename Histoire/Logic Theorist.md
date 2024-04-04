@@ -4,4 +4,5 @@ Logic Theorist simule quelques aspects de l'humain en terme de résolution de pr
 
 ---
 Source :
+[[Intelligence artificielle - entre science et marché]]
 [Leo Gugerty. NEWELL AND SIMON’S LOGIC THEORIST: HISTORICAL BACKGROUND AND IMPACT ON COGNITIVE MODELING](https://www.researchgate.net/publication/276216226_Newell_and_Simon's_Logic_Theorist_Historical_Background_and_Impact_on_Cognitive_Modeling)

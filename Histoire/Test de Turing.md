@@ -6,5 +6,5 @@ Ce test a été critiqué par de nombreux chercheurs en intelligence artificiell
 
 ---
 Sources :
-[Wikipedia. Turing Test](https://en.wikipedia.org/wiki/Turing_test)
+[Alan Turing. Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
 [De Martin Ford. Architects of Intelligence: The truth about AI from the people building it](https://www.google.fr/books/edition/Architects_of_Intelligence/e4d7DwAAQBAJ?hl=fr&gbpv=0)

@@ -76,7 +76,6 @@ Les **Large Language/Diffusion Models** émergent comme la nouvelle génération
 
 ---
 Sources :
-[Wikipedia. History of Artificial Intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
 [Council of Europe. History of Artificial Intelligence](https://www.coe.int/en/web/artificial-intelligence/history-of-ai)
 [W3Schools. Perceptron](https://www.w3schools.com/ai/ai_perceptrons.asp)
 [Stanford. AI100 Timeline.](https://ai100.stanford.edu/about/history)
