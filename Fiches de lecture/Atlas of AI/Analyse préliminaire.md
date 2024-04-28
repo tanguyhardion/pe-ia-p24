@@ -1,3 +1,6 @@
+## Autrice
+
+**Kate Crawford :** chercheuse Australienne qui étudie les impacts sociaux et politiques de l'IA. Microsoft, NYU. 
 ## En une phrase
 
 > Livre qui fait réfléchir mais essentiel, abordant comment l'IA accélère la gouvernance non démocratique et augmente les inégalités, par un des chercheurs les plus réfléchis au monde.

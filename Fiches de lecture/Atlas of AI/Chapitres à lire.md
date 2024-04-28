@@ -1,0 +1,4 @@
+Earth
+Classification
+Affect
+Power
