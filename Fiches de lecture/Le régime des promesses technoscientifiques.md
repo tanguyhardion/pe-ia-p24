@@ -78,5 +78,5 @@ La politique qui vise à diriger la recherche et l'innovation est importante, ma
 
 **Le régime des promesses technoscientifiques**
 Pierre-Benoit Joly (INRA/Lisis)
-Dans Audétat, M. *Pourquoi tant de promesses*, Paris : Hermann
+Dans **Audétat, M. *Pourquoi tant de promesses*, Paris : Hermann**
 2015, pages 31 à 48

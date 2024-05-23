@@ -11,7 +11,7 @@ Selon [Nvidia](https://ischoolonline.berkeley.edu/blog/what-is-machine-learning/
 - **L'apprentissage semi-supervisé** : ce modèle utilise une combinaison de données structurées et non structurées dans le jeu de données, guidant l'algorithme vers des conclusions indépendantes. En utilisant les deux types de données, les algorithmes d'apprentissage automatique peuvent apprendre à étiqueter des données non étiquetées.
 - **L'apprentissage par renforcement** : le jeu de données intègre un système de récompenses et de punitions, fournissant des commentaires à l'algorithme en fonction de ses actions. À travers l'essai et l'erreur, l'algorithme apprend de ses expériences pour améliorer ses performances.
 
-S'ajoute à cela le concept de **[[deep learning]]**, qui est une catégorie de machine learning plus récente qui apprend automatiquement à partir de jeux de données sans introduire de règles ou de connaissances humaines. Des quantités massives de données brutes pour le traitement sont nécessaires, et plus les données sont abondantes, plus les prédictions du modèle s'améliorent.
+S'ajoute à cela le concept de **[[Deep learning]]**, qui est une catégorie de machine learning plus récente qui apprend automatiquement à partir de jeux de données sans introduire de règles ou de connaissances humaines. Des quantités massives de données brutes pour le traitement sont nécessaires, et plus les données sont abondantes, plus les prédictions du modèle s'améliorent.
 
 ---
 Sources :

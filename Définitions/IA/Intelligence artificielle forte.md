@@ -2,7 +2,7 @@ Une intelligence artificielle **"forte"** est une [[Intelligence artificielle g�
 
 Plus précisément, l'IA forte est une machine intelligente qui ne se distingue pas de l'esprit humain. Une IA forte a une conscience de soi capable de résoudre des problèmes, d'apprendre et de planifier l'avenir.
 
-Selon [IBM](https://www.ibm.com/topics/artificial-intelligence#:~:text=Strong%20AI%20is%20made%20up%20of%20artificial%20general%20intelligence%20(AGI)%20and%20artificial%20super%20intelligence%20(ASI).), l'IA forte est non seulement composée de l'[[Intelligence artificielle générale|IA générale]], mais aussi de la [[superintelligence artificielle]].
+Selon [IBM](https://www.ibm.com/topics/artificial-intelligence#:~:text=Strong%20AI%20is%20made%20up%20of%20artificial%20general%20intelligence%20(AGI)%20and%20artificial%20super%20intelligence%20(ASI).), l'IA forte est non seulement composée de l'[[Intelligence artificielle générale|IA générale]], mais aussi de la [[Superintelligence artificielle]].
 
 ---
 Sources :
