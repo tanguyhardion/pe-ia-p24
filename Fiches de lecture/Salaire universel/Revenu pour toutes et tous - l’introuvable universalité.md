@@ -40,6 +40,8 @@ Quelles expériences de revenu de base ?
 - **Pays-Bas :** ciblées sur les chômeurs
 - **France :** projets en discussion en Nouvelle Aquitaine, Gironde, Plaine-Commune (où revenu contributif/de participation)
 
+(Plaine-Commune : https://recherchecontributive.org/le-projet/)
+
 -> limitées par l'impossibilité d'intégrer les réformes fiscales nécessaires au financement d'un revenu universel
 
 Revenu universel favorable à l'autonomie des femmes ?

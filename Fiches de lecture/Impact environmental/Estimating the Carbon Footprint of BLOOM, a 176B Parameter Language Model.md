@@ -8,7 +8,7 @@
     - **GPU : 0,003 kg CO2e par heure**
     - **Total embodied emissions : 11,2 tonnes CO2e (7,57 tonnes des serveurs ; 3,64 tonnes des GPU)**
 
-## 2. *Dynamic Power Consumption
+## 2. Dynamic Power Consumption
 
 - **Focus** : Émissions provenant de l'électricité utilisée pendant l'entraînement du modèle.
 - **Détails de l'entraînement** : 1,08 million d'heures de GPU utilisant 384 GPU

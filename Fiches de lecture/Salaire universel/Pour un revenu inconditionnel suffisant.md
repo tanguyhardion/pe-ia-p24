@@ -13,6 +13,6 @@ Le revenu social de base doit permettre de refuser le travail et les conditions 
 ---
 Source :
 
-**Pour un revenu inconditionnel suffisant***
+**Pour un revenu inconditionnel suffisant**
 *André Gorz*
 https://www.revenudebase.info/actualites/andre-gorz-revenu-inconditionnel/

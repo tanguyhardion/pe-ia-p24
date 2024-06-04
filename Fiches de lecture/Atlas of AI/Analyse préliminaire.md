@@ -81,3 +81,10 @@ Chaque chapitre commence par un exemple concret qui introduit le concept.
 	- **The Map Is Not the Territory** - 227
 	- **Toward Connected Movements for Justice** - 232
 -  *(coda)* **Space** - 238
+
+
+---
+**Source :**
+
+**Atlas of AI**
+*Kate Crawford*

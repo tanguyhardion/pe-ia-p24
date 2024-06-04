@@ -77,6 +77,5 @@ Les **Large Language/Diffusion Models** émergent comme la nouvelle génération
 ---
 Sources :
 [Council of Europe. History of Artificial Intelligence](https://www.coe.int/en/web/artificial-intelligence/history-of-ai)
-[W3Schools. Perceptron](https://www.w3schools.com/ai/ai_perceptrons.asp)
 [Stanford. AI100 Timeline.](https://ai100.stanford.edu/about/history)
-[Dominique Cardon, Jean-Philippe Cointet, Antoine Mazières. La revanche des neurones : L’invention des machines inductives et la controverse de l’intelligence artificielle ](https://www.cairn.info/revue-reseaux-2018-5-page-173.htm)
+[[La revanche des neurones]]

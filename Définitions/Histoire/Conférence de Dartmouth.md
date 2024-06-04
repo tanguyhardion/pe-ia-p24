@@ -8,3 +8,4 @@ C'est à l'occasion de cette conférence que McCarthy a convaincu l'auditoire d'
 Sources :
 [James Moor. The Dartmouth College Artificial Intelligence Conference: The Next Fifty years](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1911)
 [Klondike. AI history: the Dartmouth Conference](https://www.klondike.ai/en/ai-history-the-dartmouth-conference/)
+[[La revanche des neurones]]
