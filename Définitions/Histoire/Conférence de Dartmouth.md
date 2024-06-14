@@ -1,4 +1,4 @@
-La **conférence de Dartmouth** (*Dartmouth Summer Research Project on Artificial Intelligence*) est un atelier scientifique organisé durant l'été 1956, qui est considéré comme l'acte de naissance de l'intelligence artificielle en tant que domaine de recherche autonome.
+La **conférence de Dartmouth** (*Dartmouth Summer Research Project on Artificial Intelligence*) est un atelier scientifique organisé durant l'été 1956, qui est considéré comme l'acte de naissance de l'intelligence artificielle en tant que domaine de recherche autonome. Son objectif était de trouver de nouvelles idées pour progresser dans ce domaine.
 
 Organisée par **Marvin Minsky** et **John McCarthy**, elle a eu lieu sur le campus du Dartmouth College et a réuni plus de vingt chercheurs. Le programme [[Logic Theorist]] y a été présenté, capable de démontrer des théorèmes mathématiques. John McCarthy y présente le principe d'élagage alpha-bêta, un algorithme d'évaluation jouant un rôle majeur dans la programmation en intelligence artificielle, notamment utilisé par la grande majorité des programmes d'échecs.
 
